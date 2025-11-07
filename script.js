@@ -2,7 +2,7 @@
 const phoneNumber = "916363407163";
 
 // Google Apps Script Web App URL
-const scriptURL = "https://script.google.com/macros/s/AKfycbwMoM6Z17m6K0u3Yd0bR-mncK246ILmuyIcCxWl40m2uhu_S2WtcW3Y_UgNN_gJDG0jkw/exec";
+const scriptURL = "https://script.google.com/macros/s/AKfycbxgwWD5YUvXTDficxLhEYV2BkMBryVKlRhdqttWGqBIzeUQ7Y1MK15LS2n4TnF31QJc/exec";
 
 document.addEventListener("DOMContentLoaded", () => {
   // Buy button click handler
@@ -86,3 +86,4 @@ document.addEventListener("DOMContentLoaded", () => {
     }
   });
 });
+
